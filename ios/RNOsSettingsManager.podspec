@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "RNOsSettingsManager"
-  s.version      = "1.1.2"
+  s.version      = "1.1.4"
   s.summary      = "RNOsSettingsManager"
   s.description  = <<-DESC
   This is a native module to interact with Android/IOS settings.
